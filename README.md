@@ -1,4 +1,4 @@
-# YoTeLlevo — High-Performance Logistics Backend
+# YoTeLoLlevo — High-Performance Logistics Backend
 
 A logistics system capable of validating delivery addresses against 1.5 million 
 BOE records in under 1ms, optimizing multi-stop routes in under 15ms, and 
